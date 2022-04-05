@@ -1,8 +1,7 @@
-
 ## Hang out, and have fun! 🎉 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/titan-tf/titan-tf)
-![banner](https://titan.tf/images/movienight2.png)
-
 With over 380K unique players from over 180 countries, we are a constantly evolving network of custom Team Fortress 2 servers available worldwide.
+
+![banner](https://titan.tf/images/17.png)
 
 ### ❤️ More than just another community
 There's always something new to discover here at Titan. It's an eternal journey.
@@ -19,6 +18,10 @@ Our custom content is made completely optional for all players. No automatic dow
 
 ---
 
+<p align="center">
+  <img src="https://github.com/TitanTF/.github/blob/main/logo.png" min-width="400px" max-width="400px" width="400px" align="middle" alt="Logo">
+</p>
+
 <sub>
-<p align="center">A continuously evolving universe of Team Fortress 2 community servers, redefining what servers can achieve.</p>
+  <p align="center">A continuously evolving universe of Team Fortress 2 community servers, redefining what servers can achieve.</p>
 </sub>
